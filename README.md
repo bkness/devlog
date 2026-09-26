@@ -4,7 +4,7 @@ A full-stack blogging platform for developers. Log in, write posts, and comment 
 
 > **About this project:** I built devlog entirely by hand, no AI, during my bootcamp. It's where I learned how a full-stack app fits together: REST routes (GET, POST, PUT, DELETE), MVC structure, sessions, and a relational database with Sequelize. It's archived as a finished learning project, and its free Railway hosting has ended.
 >
-> The rebuild is **[devlogger](https://github.com/bkness/devlogger)** (Next.js, Prisma, PostgreSQL), live at **[devlogger.onrender.com](https://devlogger.onrender.com)**.
+> The rebuild is **[devlogger](https://github.com/bkness/devlogger)** (Next.js, Prisma, PostgreSQL), live at **[devlogger-bkness.vercel.app](https://devlogger-bkness.vercel.app)**.
 
 ## Features
 
